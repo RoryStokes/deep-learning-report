@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deep-learning-report/static/css/main.13f30191.chunk.css",
-    "main.js": "/deep-learning-report/static/js/main.72e83de0.chunk.js",
-    "main.js.map": "/deep-learning-report/static/js/main.72e83de0.chunk.js.map",
+    "main.js": "/deep-learning-report/static/js/main.d2760d4a.chunk.js",
+    "main.js.map": "/deep-learning-report/static/js/main.d2760d4a.chunk.js.map",
     "runtime-main.js": "/deep-learning-report/static/js/runtime-main.a8e79d6d.js",
     "runtime-main.js.map": "/deep-learning-report/static/js/runtime-main.a8e79d6d.js.map",
     "static/js/2.753acf3b.chunk.js": "/deep-learning-report/static/js/2.753acf3b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a8e79d6d.js",
     "static/js/2.753acf3b.chunk.js",
     "static/css/main.13f30191.chunk.css",
-    "static/js/main.72e83de0.chunk.js"
+    "static/js/main.d2760d4a.chunk.js"
   ]
 }
