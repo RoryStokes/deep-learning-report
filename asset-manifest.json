@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/deep-learning-report/static/css/main.13f30191.chunk.css",
-    "main.js": "/deep-learning-report/static/js/main.d2760d4a.chunk.js",
-    "main.js.map": "/deep-learning-report/static/js/main.d2760d4a.chunk.js.map",
+    "main.css": "/deep-learning-report/static/css/main.3a5ff843.chunk.css",
+    "main.js": "/deep-learning-report/static/js/main.c4d4fd82.chunk.js",
+    "main.js.map": "/deep-learning-report/static/js/main.c4d4fd82.chunk.js.map",
     "runtime-main.js": "/deep-learning-report/static/js/runtime-main.a8e79d6d.js",
     "runtime-main.js.map": "/deep-learning-report/static/js/runtime-main.a8e79d6d.js.map",
-    "static/js/2.753acf3b.chunk.js": "/deep-learning-report/static/js/2.753acf3b.chunk.js",
-    "static/js/2.753acf3b.chunk.js.map": "/deep-learning-report/static/js/2.753acf3b.chunk.js.map",
+    "static/js/2.a191ebbb.chunk.js": "/deep-learning-report/static/js/2.a191ebbb.chunk.js",
+    "static/js/2.a191ebbb.chunk.js.map": "/deep-learning-report/static/js/2.a191ebbb.chunk.js.map",
     "static/js/3.3a02416d.chunk.js": "/deep-learning-report/static/js/3.3a02416d.chunk.js",
     "static/js/3.3a02416d.chunk.js.map": "/deep-learning-report/static/js/3.3a02416d.chunk.js.map",
     "index.html": "/deep-learning-report/index.html",
-    "static/css/main.13f30191.chunk.css.map": "/deep-learning-report/static/css/main.13f30191.chunk.css.map",
-    "static/js/2.753acf3b.chunk.js.LICENSE.txt": "/deep-learning-report/static/js/2.753acf3b.chunk.js.LICENSE.txt"
+    "static/css/main.3a5ff843.chunk.css.map": "/deep-learning-report/static/css/main.3a5ff843.chunk.css.map",
+    "static/js/2.a191ebbb.chunk.js.LICENSE.txt": "/deep-learning-report/static/js/2.a191ebbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a8e79d6d.js",
-    "static/js/2.753acf3b.chunk.js",
-    "static/css/main.13f30191.chunk.css",
-    "static/js/main.d2760d4a.chunk.js"
+    "static/js/2.a191ebbb.chunk.js",
+    "static/css/main.3a5ff843.chunk.css",
+    "static/js/main.c4d4fd82.chunk.js"
   ]
 }
